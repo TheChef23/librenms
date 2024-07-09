@@ -146,6 +146,7 @@ nav:
   - Installing:
     - Installing LibreNMS: Installation/Install-LibreNMS.md
     - Other Methods:
+      - Kubernetes: Installation/Kubernetes.md
       - Docker: Installation/Docker.md
       - Virtual machines: Installation/Images.md
     - Choosing a release: General/Releases.md

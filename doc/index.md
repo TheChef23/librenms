@@ -7,7 +7,8 @@
           </a>
         </div>
         <a href="/Installation/Install-LibreNMS/">Install LibreNMS Now</a><br />
-        <a href="/Installation/Docker/">Install Using Docker</a>
+        <a href="/Installation/Docker/">Using Docker</a><br />
+        <a href="/Installation/Kubernetes/">Using Kubernetes</a>
     </div>
     <div class="home-box">
         <div class="home-header">
